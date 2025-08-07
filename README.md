@@ -37,3 +37,9 @@ php artisan key:generate
 php artisan migrate --seed
 npm install && npm run dev
 php artisan serve
+
+## 🙋‍♂️ Author
+
+- **Ahmed Ghatas**
+- Aspiring PHP & Laravel Developer
+- [GitHub]https://github.com/ahmedghatas0
